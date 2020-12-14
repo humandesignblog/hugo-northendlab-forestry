@@ -67,9 +67,3 @@ enable = true
 [[params.social]]
 icon = "ti-instagram"
 link = "instagram.com/myprojectorlife"
-[[params.social]]
-icon = "ti-github"
-link = "#"
-[[params.social]]
-icon = "ti-linkedin"
-link = "#"
