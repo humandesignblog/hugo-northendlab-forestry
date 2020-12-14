@@ -33,7 +33,7 @@ google_tag_manager = ""
 home = "Home"
 logo = "images/logo.svg"
 [params.banner]
-bgImage = "images/banner/banner-bg.svg"
+bgImage = "/images/screenshot_20201211-100256_chrome.jpg"
 image = "images/banner/illustration.svg"
 title = "Hi, I'm Rita. <br> This is my blog where I write about my journey learning about Human Design and relating it to my life!"
 [params.cta]
