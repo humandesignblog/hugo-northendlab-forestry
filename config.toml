@@ -33,12 +33,12 @@ google_tag_manager = ""
 home = "Home"
 logo = "images/logo.svg"
 [params.banner]
-bgImage = ""
+bgImage = "/images/sky.jpg"
 image = "/images/screenshot_20201211-100256_chrome.jpg"
 title = "Hi, I'm Rita. <br> This is my blog where I write about my journey learning about Human Design and relating it to my life!"
 [params.cta]
 description = "Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus."
-enable = true
+enable = false
 image = "images/hugo-muscot.svg"
 title = "Get the best hugo templates"
 [params.cta.button]
